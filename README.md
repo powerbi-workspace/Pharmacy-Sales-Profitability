@@ -4,11 +4,9 @@
 
 ## Project Overview
 This project presents an interactive **Pharmacy Sales & Profitability Dashboard** built using Power BI to analyze business performance across products, regions, and time.
-
 The dashboard provides a centralized view of key metrics, enabling stakeholders to make **data-driven decisions** by identifying revenue trends, profitability drivers, and performance gaps.
 
-# Pharmacy-Sales-Profitability
-I have built interactive Power BI dashboards to analyze sales, pharmacy performance, and product promotions. These projects demonstrate my skills in data modeling, DAX, and business insight generation.
+This project demonstrates my skills in **data modeling, DAX, and generating actionable business insights** through interactive dashboards.
 
 ---
 
@@ -40,31 +38,10 @@ This dashboard addresses these challenges by providing a **comprehensive and int
 ---
 
 ## 📊 Dashboard Features
-
-### Executive Summary
-- High-level overview of key KPIs (Sales, Profit, Margin)  
-- Trend analysis over time  
-- Quick snapshot of overall business performance  
-
----
-
-### Product & Profitability Analysis
-- Product-wise sales and profit contribution  
-- Identification of high-revenue vs low-profit products  
-- Profit margin analysis across categories  
-
----
-
-### Regional Analysis
-- Sales and profit distribution across regions  
-- Identification of top-performing and underperforming areas  
-
----
-
-### Interactive Features
-- Dynamic filters and slicers  
-- Drill-down capability for detailed analysis  
-- User-friendly and intuitive layout  
+- **Executive Summary:** KPI overview (Sales, Profit, Margin) with trend analysis  
+- **Product Analysis:** Sales, profit, and margin insights by product/category  
+- **Regional Analysis:** Performance comparison across regions  
+- **Interactivity:** Filters, slicers, and drill-down for detailed insights  
 
 ---
 
@@ -79,26 +56,19 @@ This dashboard addresses these challenges by providing a **comprehensive and int
 ---
 
 ## Key Insights
-- Certain products generate high revenue but contribute lower profit margins  
-- A small set of products drives a significant portion of total sales  
-- Regional performance varies significantly, indicating growth opportunities  
-- Profitability is impacted by pricing and product mix
-
-- ##  Key Highlights
-- Built 3 end-to-end dashboards using Power BI
-- Created KPI-driven reports with interactive filters and drill-through
-- Used DAX for calculations and data modeling
-- Analyzed sales, revenue, margin, and product performance
-- Delivered actionable business insights
+- A small set of products drives most of the revenue  
+- Some high-revenue products have low profit margins  
+- Sales performance varies across regions  
+- Profitability is influenced by product mix and pricing 
 
 ---
 
 ## Business Impact
 This dashboard helps stakeholders to:
-- Identify profitable and non-profitable products  
+- Identify high- and low-performing products  
 - Optimize pricing and product strategy  
 - Improve regional sales performance  
-- Support strategic business decisions  
+- Support data-driven business decisions 
 
 ---
 
