@@ -37,11 +37,11 @@ This dashboard addresses these challenges by providing a **comprehensive and int
 ---
 
 ## 📊 Dashboard Features
-- **Executive Summary:** KPI overview (Sales, Profit, Margin) with trend analysis  
-- **Product Analysis:** Sales, profit, and margin insights by product/category  
-- **Regional Analysis:** Performance comparison across regions  
-- **Interactivity:** Filters, slicers, and drill-down for detailed insights  
 
+- Executive Summary: KPI overview (Revenue, Margin, Total Units) with trend analysis  
+- Product Analysis: Revenue, margin, and unit insights by country and pharmacy type  
+- Regional Analysis: Performance comparison across regions  
+- Interactivity: Filters, slicers, and drill-through for detailed insights 
 ---
 
 ## Dashboard Preview
