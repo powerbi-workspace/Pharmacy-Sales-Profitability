@@ -46,11 +46,14 @@ This dashboard addresses these challenges by providing a **comprehensive and int
 
 ## Dashboard Preview
 
-### Executive Summary
-![Dashboard](./<your-main-image.png>)
+### Pharmacy Sales & Profitability - Executive Summary
+![Pharmacy Sales & Profitability](Pharmacy Sales & Profitability.jpg)
 
-### Detailed Analysis
-![Detailed View](./<your-second-image.png>)
+### Pharmacy Performance
+![Pharmacy Performance](Pharmacy Performance.jpg)
+
+### Product Insights
+![Product Insights](Product Insights.jpg)
 
 ---
 
